@@ -1,4 +1,4 @@
 # cod-bot
-Twitter bot using Markov chain
+Twitter bot using Markov chain \\
 MeCabを導入すれば使えます.
 
